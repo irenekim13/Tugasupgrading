@@ -1,0 +1,10 @@
+2020-01-12T08:27:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\mtsnpadangjapang\wp-content\plugins\polylang\include\model.php on line 8
+
+2020-01-12T08:27:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\mtsnpadangjapang\wp-content\plugins\elementor\core\schemes\typography.php on line 4
+
+2020-01-12T08:51:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\mtsnpadangjapang\wp-content\plugins\elementor\modules\safe-mode\module.php on line 10
+
+2020-01-12T09:07:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\mtsnpadangjapang\wp-admin\includes\media.php on line 16
+
+2020-01-12T11:37:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\mtsnpadangjapang\wp-content\plugins\elementor\includes\base\widget-base.php on line 4
+

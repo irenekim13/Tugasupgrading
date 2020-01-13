@@ -1,0 +1,2 @@
+2020-01-13T00:30:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\mtsnpadangjapang\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_QueueRunner.php on line 6
+
